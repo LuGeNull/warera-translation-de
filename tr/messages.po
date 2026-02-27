@@ -3512,7 +3512,7 @@ msgstr "Ortaçağ Eldiveni"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:56
 msgid "Medieval Helmet"
-msgstr "Ortaçağ Kaskı"
+msgstr "Ortaçağ Miğferi"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:74
 msgid "Medieval Iron Arrow"
@@ -3739,7 +3739,7 @@ msgstr "Mistik Eldivenler"
 
 #: src/utils/translations.tsx:168
 msgid "Mythic Helmet"
-msgstr "Mistik Kask"
+msgstr "Mistik Miğfer"
 
 #: src/utils/translations.tsx:204
 msgid "Mythic Pants"
@@ -4769,7 +4769,7 @@ msgstr "Güçlendirilmiş Eldivenler"
 
 #: src/utils/translations.tsx:164
 msgid "Reinforced Helmet"
-msgstr "Güçlendirilmiş Kask"
+msgstr "Güçlendirilmiş Miğfer"
 
 #: src/utils/translations.tsx:200
 msgid "Reinforced Pants"
