@@ -1323,7 +1323,7 @@ msgstr "Gebalanceerd - Geen modificatoren"
 
 #: src/pages/user/[userId]/bans.tsx:288
 msgid "Ban History"
-msgstr ""
+msgstr "Ban Geschiedenis"
 
 #: src/components/_user/user/UserDropdown.tsx:264
 msgid "Ban user"
@@ -1497,7 +1497,7 @@ msgstr "Bouw de militaire eenheid"
 
 #: src/pages/user/[userId]/bans.tsx:181
 msgid "Buy"
-msgstr ""
+msgstr "Kopen"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:166
 msgid "Buy for <0>{count}</0> money on market"
@@ -2861,7 +2861,7 @@ msgstr "gegeven"
 
 #: src/components/_user/user/UserDropdown.tsx:333
 msgid "Give badge"
-msgstr ""
+msgstr "Badge geven"
 
 #: src/components/_user/user/UserDropdown.tsx:312
 msgid "Give money"
@@ -5122,7 +5122,7 @@ msgstr "Werk <0>{count}</0> keer in je eigen bedrijven"
 
 #: src/pages/user/[userId]/bans.tsx:206
 msgid "Sell"
-msgstr ""
+msgstr "Verkopen"
 
 #: src/components/_economy/company/CompanyDropdown.tsx:253
 msgid "Sell company?"
@@ -5277,7 +5277,7 @@ msgstr "Laat meer zien"
 
 #: src/components/_social/ArticleList.tsx:140
 msgid "Show only articles with positive score (score >= -5)"
-msgstr ""
+msgstr "Toon alleen artikelen met een positieve score (score >= -5)"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:19
 msgid "Skill issue?"
