@@ -257,7 +257,7 @@ msgstr "<0/> профінансувала спротив у <1/>"
 
 #: src/components/_political/event/event.frontConfig.tsx:312
 msgid "<0/> has formed an alliance with <1/>"
-msgstr "<0/> уклала альянс з <1/>"
+msgstr "<0/> сформувала альянс з <1/>"
 
 #: src/components/_political/event/event.frontConfig.tsx:227
 msgid "<0/> has liberated <1/> and returned it to <2/>"
