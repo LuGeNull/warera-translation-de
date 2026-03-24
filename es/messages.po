@@ -1109,7 +1109,7 @@ msgstr "Aceptar hacer la paz con el otro país"
 msgid "Accepted"
 msgstr "Aceptada"
 
-#: src/components/_military/battle/BattleHeader.tsx:93
+#: src/components/_military/battle/BattleHeader.tsx:92
 msgid "Access war"
 msgstr "Acceder a las batallas"
 
@@ -1320,11 +1320,11 @@ msgstr "Cantidad"
 msgid "Amount of <0>Production Points</0> that can be stored inside the company before production stops."
 msgstr "Cantidad de <0>Puntos de Producción</0> que se pueden almacenar en la empresa antes de que se detenga la producción."
 
-#: src/components/_user/user/skills.frontConfig.tsx:175
+#: src/components/_user/user/skills.frontConfig.tsx:186
 msgid "Amount of <0>Workers</0> you can manage. And daily hire limit."
 msgstr "Cantidad de <0>Trabajadores</0> que puedes gestionar. Y límite diario de contratación."
 
-#: src/components/_user/user/skills.frontConfig.tsx:107
+#: src/components/_user/user/skills.frontConfig.tsx:109
 msgid "Amount of companies you can own"
 msgstr "Número de empresas que puedes poseer"
 
@@ -1443,8 +1443,8 @@ msgstr "¿Estás seguro de que quieres omitir este tutorial?"
 msgid "Are you sure you want to transfer ownership to this member? This action cannot be undone."
 msgstr "¿Estás seguro de que quieres transferir la propiedad a este miembro? Esta acción no se puede deshacer."
 
-#: src/components/_user/user/skills.frontConfig.tsx:69
-#: src/components/_user/user/skills.frontConfig.tsx:70
+#: src/components/_user/user/skills.frontConfig.tsx:71
+#: src/components/_user/user/skills.frontConfig.tsx:72
 msgid "Armor"
 msgstr "Armadura"
 
@@ -1473,14 +1473,6 @@ msgstr "Artículos"
 msgid "Articles by <0/>"
 msgstr "Artículos de <0/>"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:253
-msgid "At end of battle/rounds, <0>Top 30%</0> of the ranking, get <1>Loot chance</1> to get cases depending on total <2>Damages</2> of the side. "
-msgstr "Al final de la batalla/rondas, el <0>Top 30%</0> del ranking obtiene <1>Probabilidad de botín</1> para conseguir cajas según el total de <2>Daño</2> del bando. "
-
-#: src/components/_military/hit/BattleLootChanceCard.tsx:41
-msgid "At every hit, increases your chance to loot a case when the battle ends. You can stack cases."
-msgstr "Con cada golpe, aumenta tu probabilidad de conseguir una caja cuando termina la batalla. Puedes acumular cajas."
-
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:8
 msgid "At least you tried"
 msgstr "Al menos lo intentaste"
@@ -1489,9 +1481,9 @@ msgstr "Al menos lo intentaste"
 msgid "At the end of the timer <0>{actualTickPoints}</0> will be assigned to the side with the most damages."
 msgstr "Al final del temporizador, <0>{actualTickPoints}</0> se asignarán al bando con más daño."
 
-#: src/components/_military/hit/HitButton.tsx:383
-#: src/components/_user/user/skills.frontConfig.tsx:42
-#: src/components/_user/user/skills.frontConfig.tsx:43
+#: src/components/_military/hit/HitButton.tsx:380
+#: src/components/_user/user/skills.frontConfig.tsx:44
+#: src/components/_user/user/skills.frontConfig.tsx:45
 msgid "Attack"
 msgstr "Ataque"
 
@@ -1882,11 +1874,15 @@ msgstr "Las cajas contienen objetos aleatorios. ¡Haz clic para abrirla!"
 msgid "Catapult"
 msgstr "Catapulta"
 
-#: src/components/_user/user/skills.frontConfig.tsx:136
+#: src/components/_user/user/skills.frontConfig.tsx:152
+msgid "Chance per hit to instantly loot:<0/><1>1%</1> gives<2>1%</2> and <3>0.01%</3> to loot cases per hit."
+msgstr ""
+
+#: src/components/_user/user/skills.frontConfig.tsx:138
 msgid "Chance to dodge all incoming damage when fighting in battles.<0/>Dodging also prevents equipment durability from being consumed."
 msgstr "Probabilidad de esquivar todo el daño entrante al luchar en batallas.<0/>Esquivar también evita que se consuma la durabilidad del equipo."
 
-#: src/components/_user/user/skills.frontConfig.tsx:122
+#: src/components/_user/user/skills.frontConfig.tsx:124
 msgid "Chance to hit the target.<0/>Misses cannot crit, and deal half damage."
 msgstr "Probabilidad de golpear al objetivo.<0/>Los fallos no pueden ser críticos y hacen la mitad de daño."
 
@@ -2091,8 +2087,8 @@ msgstr "Comunidad"
 msgid "Companies"
 msgstr "Empresas"
 
-#: src/components/_user/user/skills.frontConfig.tsx:108
-#: src/components/_user/user/skills.frontConfig.tsx:109
+#: src/components/_user/user/skills.frontConfig.tsx:110
+#: src/components/_user/user/skills.frontConfig.tsx:111
 msgid "Companies limit"
 msgstr "Límite de empresas"
 
@@ -2263,7 +2259,7 @@ msgstr "Considera dárselo a tu moderador local"
 msgid "Construction started"
 msgstr "Construcción iniciada"
 
-#: src/components/_user/user/skills.frontConfig.tsx:76
+#: src/components/_user/user/skills.frontConfig.tsx:78
 msgid "Consumed when fighting in battles"
 msgstr "Se consume al luchar en batallas"
 
@@ -2452,13 +2448,13 @@ msgstr "Crear Token"
 msgid "Created:"
 msgstr "Creado:"
 
-#: src/components/_user/user/skills.frontConfig.tsx:49
-#: src/components/_user/user/skills.frontConfig.tsx:50
+#: src/components/_user/user/skills.frontConfig.tsx:51
+#: src/components/_user/user/skills.frontConfig.tsx:52
 msgid "Crit. chance"
 msgstr "Prob. crítica"
 
-#: src/components/_user/user/skills.frontConfig.tsx:61
-#: src/components/_user/user/skills.frontConfig.tsx:62
+#: src/components/_user/user/skills.frontConfig.tsx:63
+#: src/components/_user/user/skills.frontConfig.tsx:64
 msgid "Crit. damages"
 msgstr "Daño crítico"
 
@@ -2535,7 +2531,7 @@ msgstr "Daño"
 msgid "Damages for Mu"
 msgstr "Daños para la MU"
 
-#: src/components/_military/hit/HitButton.tsx:337
+#: src/components/_military/hit/HitButton.tsx:334
 msgid "Damages you did for this side in this round"
 msgstr "Daño que infligiste para este bando en esta ronda"
 
@@ -2652,7 +2648,7 @@ msgstr "Disminuir"
 msgid "Decrease unrest"
 msgstr "Disminuir el malestar"
 
-#: src/components/_military/hit/HitButton.tsx:386
+#: src/components/_military/hit/HitButton.tsx:383
 msgid "Defend"
 msgstr "Defender"
 
@@ -2812,8 +2808,8 @@ msgid "Do you even know what luck is?"
 msgstr "¿Sabes qué es la suerte?"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:274
-#: src/components/_user/user/skills.frontConfig.tsx:142
-#: src/components/_user/user/skills.frontConfig.tsx:143
+#: src/components/_user/user/skills.frontConfig.tsx:144
+#: src/components/_user/user/skills.frontConfig.tsx:145
 msgid "Dodge"
 msgstr "Esquiva"
 
@@ -2910,7 +2906,7 @@ msgstr "Modo Eco"
 msgid "Economic laws"
 msgstr "Leyes económicas"
 
-#: src/components/_user/user/skills.frontConfig.tsx:205
+#: src/components/_user/user/skills.frontConfig.tsx:216
 msgid "Economic skills"
 msgstr "Habilidades económicas"
 
@@ -3008,8 +3004,8 @@ msgid "Enemies"
 msgstr "Enemigos"
 
 #: src/components/_economy/workOffer/WorkOfferList.tsx:145
-#: src/components/_user/user/skills.frontConfig.tsx:88
-#: src/components/_user/user/skills.frontConfig.tsx:89
+#: src/components/_user/user/skills.frontConfig.tsx:90
+#: src/components/_user/user/skills.frontConfig.tsx:91
 msgid "Energy"
 msgstr "Energía"
 
@@ -3026,8 +3022,8 @@ msgstr "Introduce el ID del artículo"
 msgid "Enter the code we sent to your email."
 msgstr "Introduce el código que te enviamos a tu correo."
 
-#: src/components/_user/user/skills.frontConfig.tsx:168
-#: src/components/_user/user/skills.frontConfig.tsx:169
+#: src/components/_user/user/skills.frontConfig.tsx:179
+#: src/components/_user/user/skills.frontConfig.tsx:180
 msgid "Entrepreneurship"
 msgstr "Emprendimiento"
 
@@ -3205,7 +3201,7 @@ msgstr "Bono de fidelidad"
 msgid "Fidelity bonus:"
 msgstr "Bono de fidelidad:"
 
-#: src/components/_user/user/skills.frontConfig.tsx:190
+#: src/components/_user/user/skills.frontConfig.tsx:201
 msgid "Fight skills"
 msgstr "Habilidades de combate"
 
@@ -3327,18 +3323,6 @@ msgstr "Padre fundador"
 #: src/pages/shop/index.tsx:129
 msgid "Free daily reward"
 msgstr "Recompensa diaria gratis"
-
-#: src/components/_military/hit/BattleLootChanceCard.tsx:98
-msgid "from battle ranking"
-msgstr "del ranking de batalla"
-
-#: src/components/_military/hit/BattleLootChanceCard.tsx:78
-msgid "from hits"
-msgstr "de golpes"
-
-#: src/components/_military/hit/BattleLootChanceCard.tsx:87
-msgid "from round rankings"
-msgstr "del ranking de rondas"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:27
 msgid "Fun fact: The house always wins"
@@ -3515,8 +3499,8 @@ msgstr "Gran Trabajador"
 msgid "Headquarters"
 msgstr "Cuartel general"
 
-#: src/components/_user/user/skills.frontConfig.tsx:77
-#: src/components/_user/user/skills.frontConfig.tsx:78
+#: src/components/_user/user/skills.frontConfig.tsx:79
+#: src/components/_user/user/skills.frontConfig.tsx:80
 msgid "Health"
 msgstr "Salud"
 
@@ -3571,12 +3555,8 @@ msgstr "Inicio"
 msgid "How many times have you seen this message already?"
 msgstr "¿Cuántas veces has visto este mensaje?"
 
-#: src/components/_user/user/skills.frontConfig.tsx:150
-msgid "How much each hit increases the chance to loot a case when the battle ends"
-msgstr "Cuánto aumenta cada golpe la probabilidad de conseguir una caja cuando termina la batalla"
-
-#: src/components/_user/user/skills.frontConfig.tsx:115
-#: src/components/_user/user/skills.frontConfig.tsx:116
+#: src/components/_user/user/skills.frontConfig.tsx:117
+#: src/components/_user/user/skills.frontConfig.tsx:118
 msgid "Hunger"
 msgstr "Hambre"
 
@@ -3985,7 +3965,7 @@ msgstr "Me gusta mensaje"
 msgid "Limestone"
 msgstr "Piedra Caliza"
 
-#: src/components/_user/user/skills.frontConfig.tsx:114
+#: src/components/_user/user/skills.frontConfig.tsx:116
 msgid "Limit of food consumption"
 msgstr "Límite de consumo de comida"
 
@@ -4045,9 +4025,8 @@ msgstr "Consigue <0>{count}</0> como botín de batallas"
 msgid "Loot Cases"
 msgstr "Conseguir cajas"
 
-#: src/components/_military/hit/BattleLootChanceCard.tsx:38
-#: src/components/_user/user/skills.frontConfig.tsx:155
-#: src/components/_user/user/skills.frontConfig.tsx:156
+#: src/components/_user/user/skills.frontConfig.tsx:166
+#: src/components/_user/user/skills.frontConfig.tsx:167
 msgid "Loot chance"
 msgstr "Probabilidad de botín"
 
@@ -4095,8 +4074,8 @@ msgstr "Mayor"
 msgid "Manage Subscription"
 msgstr "Gestionar suscripción"
 
-#: src/components/_user/user/skills.frontConfig.tsx:183
-#: src/components/_user/user/skills.frontConfig.tsx:184
+#: src/components/_user/user/skills.frontConfig.tsx:194
+#: src/components/_user/user/skills.frontConfig.tsx:195
 msgid "Management"
 msgstr "Gestión"
 
@@ -4703,7 +4682,7 @@ msgstr "Sin miembros del congreso"
 msgid "No contributions yet"
 msgstr "Aún no hay contribuciones"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:125
+#: src/components/_military/damageRanking/DamageRankingList.tsx:119
 msgid "No damages ranking yet."
 msgstr "Aún no hay ranking de daño."
 
@@ -4711,7 +4690,7 @@ msgstr "Aún no hay ranking de daño."
 msgid "No donations yet"
 msgstr "Aún no hay donaciones"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:127
+#: src/components/_military/damageRanking/DamageRankingList.tsx:121
 msgid "No ground ranking yet."
 msgstr "Aún no hay ranking de terreno."
 
@@ -4735,7 +4714,7 @@ msgstr "No se encontraron unidades militares"
 msgid "No missions available"
 msgstr "No hay misiones disponibles"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:128
+#: src/components/_military/damageRanking/DamageRankingList.tsx:122
 msgid "No money ranking yet."
 msgstr "Aún no hay ranking de dinero."
 
@@ -4938,7 +4917,7 @@ msgstr "Operativo"
 msgid "Options"
 msgstr "Opciones"
 
-#: src/components/_military/battle/BattleItem.tsx:329
+#: src/components/_military/battle/BattleItem.tsx:317
 msgid "Order"
 msgstr "Orden"
 
@@ -5199,8 +5178,8 @@ msgstr "Mociones políticas"
 msgid "Popular Article"
 msgstr "Articulo popular"
 
-#: src/components/_user/user/skills.frontConfig.tsx:128
-#: src/components/_user/user/skills.frontConfig.tsx:129
+#: src/components/_user/user/skills.frontConfig.tsx:130
+#: src/components/_user/user/skills.frontConfig.tsx:131
 msgid "Precision"
 msgstr "Precisión"
 
@@ -5290,7 +5269,7 @@ msgstr "Privacidad"
 msgid "Private"
 msgstr "Soldado"
 
-#: src/components/_user/user/skills.frontConfig.tsx:48
+#: src/components/_user/user/skills.frontConfig.tsx:50
 msgid "Probability of landing a critical hit"
 msgstr "Probabilidad de asestar un golpe crítico"
 
@@ -5316,8 +5295,8 @@ msgid "Produced item changed!"
 msgstr "¡Objeto producido cambiado!"
 
 #: src/components/_economy/workOffer/WorkOfferList.tsx:159
-#: src/components/_user/user/skills.frontConfig.tsx:101
-#: src/components/_user/user/skills.frontConfig.tsx:102
+#: src/components/_user/user/skills.frontConfig.tsx:103
+#: src/components/_user/user/skills.frontConfig.tsx:104
 #: src/pages/company/[companyId]/index.tsx:49
 msgid "Production"
 msgstr "Producción"
@@ -5442,10 +5421,6 @@ msgstr "Desmontar rápido"
 msgid "Quickly dismantle items"
 msgstr "Desmontar objetos rápidamente"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:251
-msgid "Ranking loot chance"
-msgstr "Probabilidad de botín por ranking"
-
 #: src/components/_user/notification/notification.frontConfig.tsx:1524
 msgid "Ranking Reward"
 msgstr "Recompensa de clasificación"
@@ -5546,7 +5521,7 @@ msgstr "Recluta"
 msgid "Red Staff"
 msgstr "Báculo rojo"
 
-#: src/components/_user/user/skills.frontConfig.tsx:68
+#: src/components/_user/user/skills.frontConfig.tsx:70
 msgid "Reduces health lost when fighting in battles"
 msgstr "Reduce la salud perdida al luchar en batallas"
 
@@ -5803,7 +5778,7 @@ msgstr "Restablecer nombre de usuario"
 msgid "Reshuffle in"
 msgstr "Redistribución en"
 
-#: src/components/_military/hit/HitButton.tsx:381
+#: src/components/_military/hit/HitButton.tsx:378
 msgid "Resist"
 msgstr "Resistir"
 
@@ -6186,7 +6161,7 @@ msgstr "Ajustes"
 msgid "Shop"
 msgstr "Tienda"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:216
+#: src/components/_military/damageRanking/DamageRankingList.tsx:187
 #: src/components/_social/ArticleTags.tsx:268
 #: src/components/_social/ArticleTags.tsx:319
 #: src/components/_social/ArticleTags.tsx:427
@@ -6350,7 +6325,7 @@ msgstr "Convocar elecciones presidenciales"
 msgid "Start revolution"
 msgstr "Iniciar una revuelta"
 
-#: src/components/_military/battle/BattleHeader.tsx:169
+#: src/components/_military/battle/BattleHeader.tsx:168
 #: src/components/_military/war/WarHeader.tsx:61
 #: src/components/_military/war/WarItem.tsx:108
 msgid "Started <0/>"
@@ -6562,11 +6537,11 @@ msgstr "Esa dosis de dopamina es gratis"
 msgid "That's epic!"
 msgstr "¡Eso es épico!"
 
-#: src/components/_user/user/skills.frontConfig.tsx:96
+#: src/components/_user/user/skills.frontConfig.tsx:98
 msgid "The <0>Production Points</0> you generate each time you work"
 msgstr "Los <0>Puntos de Producción</0> que generas cada vez que trabajas"
 
-#: src/components/_user/user/skills.frontConfig.tsx:38
+#: src/components/_user/user/skills.frontConfig.tsx:40
 msgid "The base value for <0>Damages</0> calculation."
 msgstr "El valor base para el cálculo de <0>Daño</0>."
 
@@ -6586,7 +6561,7 @@ msgstr "El contrato de <0/> ha expirado"
 msgid "The contract has been rolled back. All money sent back to <0/>"
 msgstr "El contrato ha sido revertido. Todo el dinero fue devuelto a <0/>"
 
-#: src/components/_user/user/skills.frontConfig.tsx:57
+#: src/components/_user/user/skills.frontConfig.tsx:59
 msgid "The damage factor increase of critical hits over normal hits"
 msgstr "Cuánto aumenta el daño de los golpes críticos respecto a los normales"
 
@@ -7084,11 +7059,11 @@ msgstr "Usa tu <0>Hambre</0> para comer y rellenar tu <1>Salud</1>. ¡Luego vuel
 msgid "Used for shooting guns. Increases your <0>Attack</0>"
 msgstr "Usada para disparar armas. Aumenta tu <0>Ataque</0>"
 
-#: src/components/_user/user/skills.frontConfig.tsx:163
+#: src/components/_user/user/skills.frontConfig.tsx:174
 msgid "Used to <0>Self Work</0> in your own companies"
 msgstr "Se usa para <0>Trabajo propio</0> en tus propias empresas"
 
-#: src/components/_user/user/skills.frontConfig.tsx:84
+#: src/components/_user/user/skills.frontConfig.tsx:86
 msgid "Used to <0>Work</0>"
 msgstr "Se usa para <0>Trabajar</0>"
 
@@ -7278,7 +7253,7 @@ msgstr "Vicepresidente"
 msgid "View details"
 msgstr "Ver detalles"
 
-#: src/components/_military/battle/BattleHeader.tsx:100
+#: src/components/_military/battle/BattleHeader.tsx:99
 msgid "View on map"
 msgstr "Ver en el mapa"
 
@@ -7940,7 +7915,7 @@ msgstr "¡Tus misiones diarias han sido reiniciadas! Completa las misiones para 
 msgid "Your daily XP limit has been reset, you can now gain XP and get your daily reward!"
 msgstr "¡Tu límite de XP diario se ha reiniciado, ahora puedes ganar XP y obtener tu recompensa diaria!"
 
-#: src/components/_military/hit/HitButton.tsx:336
+#: src/components/_military/hit/HitButton.tsx:333
 msgid "Your damages"
 msgstr "Tu daño"
 
@@ -8000,7 +7975,7 @@ msgstr "¡Tu suscripción premium ha sido activada!"
 msgid "Your premium subscription has expired!"
 msgstr "¡Tu suscripción premium ha expirado!"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:222
+#: src/components/_military/damageRanking/DamageRankingList.tsx:193
 msgid "Your rank"
 msgstr "Tu rango"
 

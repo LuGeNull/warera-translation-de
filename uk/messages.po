@@ -1109,7 +1109,7 @@ msgstr "Прийміть аби укласти мир з іншою держав
 msgid "Accepted"
 msgstr "Прийнято"
 
-#: src/components/_military/battle/BattleHeader.tsx:93
+#: src/components/_military/battle/BattleHeader.tsx:92
 msgid "Access war"
 msgstr "Перейти до війни"
 
@@ -1320,11 +1320,11 @@ msgstr "Кількість"
 msgid "Amount of <0>Production Points</0> that can be stored inside the company before production stops."
 msgstr "Кількість <0>Балів виробництва</0>, які можуть зберігатись на фабриці не зупиняючи виробництво."
 
-#: src/components/_user/user/skills.frontConfig.tsx:175
+#: src/components/_user/user/skills.frontConfig.tsx:186
 msgid "Amount of <0>Workers</0> you can manage. And daily hire limit."
 msgstr "Кількість <0>Робітників</0>, якими ви можете керувати. А також щоденний ліміт найму."
 
-#: src/components/_user/user/skills.frontConfig.tsx:107
+#: src/components/_user/user/skills.frontConfig.tsx:109
 msgid "Amount of companies you can own"
 msgstr "Кількість фабрик, якими ви можете володіти"
 
@@ -1443,8 +1443,8 @@ msgstr "Ви впевнені, що хочете пропустити навча
 msgid "Are you sure you want to transfer ownership to this member? This action cannot be undone."
 msgstr "Ви впевнені, що хочете передати право власності підрозділом цьому бійцю? Цю дію неможливо скасувати."
 
-#: src/components/_user/user/skills.frontConfig.tsx:69
-#: src/components/_user/user/skills.frontConfig.tsx:70
+#: src/components/_user/user/skills.frontConfig.tsx:71
+#: src/components/_user/user/skills.frontConfig.tsx:72
 msgid "Armor"
 msgstr "Захист"
 
@@ -1473,14 +1473,6 @@ msgstr "Статті"
 msgid "Articles by <0/>"
 msgstr "Статті <0/>"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:253
-msgid "At end of battle/rounds, <0>Top 30%</0> of the ranking, get <1>Loot chance</1> to get cases depending on total <2>Damages</2> of the side. "
-msgstr "У кінці битви/раундів <0>Топ 30%</0> гравців у рейтингу отримують додаткові <1>Шанси</1> отримати кейси залежно від загальної <2>шкоди</2> сторони. "
-
-#: src/components/_military/hit/BattleLootChanceCard.tsx:41
-msgid "At every hit, increases your chance to loot a case when the battle ends. You can stack cases."
-msgstr "Кожен удар збільшує шанс отримати кейс після завершення битви. Ви можете накопичувати кейси."
-
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:8
 msgid "At least you tried"
 msgstr "Ну, ти спробував"
@@ -1489,9 +1481,9 @@ msgstr "Ну, ти спробував"
 msgid "At the end of the timer <0>{actualTickPoints}</0> will be assigned to the side with the most damages."
 msgstr "Коли таймер дійде нуля, <0>{actualTickPoints}</0> буде присвоєно стороні з більшою шкодою."
 
-#: src/components/_military/hit/HitButton.tsx:383
-#: src/components/_user/user/skills.frontConfig.tsx:42
-#: src/components/_user/user/skills.frontConfig.tsx:43
+#: src/components/_military/hit/HitButton.tsx:380
+#: src/components/_user/user/skills.frontConfig.tsx:44
+#: src/components/_user/user/skills.frontConfig.tsx:45
 msgid "Attack"
 msgstr "Атака"
 
@@ -1882,11 +1874,15 @@ msgstr "Кейси містять випадкові предмети. Нати�
 msgid "Catapult"
 msgstr "Катапульта"
 
-#: src/components/_user/user/skills.frontConfig.tsx:136
+#: src/components/_user/user/skills.frontConfig.tsx:152
+msgid "Chance per hit to instantly loot:<0/><1>1%</1> gives<2>1%</2> and <3>0.01%</3> to loot cases per hit."
+msgstr ""
+
+#: src/components/_user/user/skills.frontConfig.tsx:138
 msgid "Chance to dodge all incoming damage when fighting in battles.<0/>Dodging also prevents equipment durability from being consumed."
 msgstr "Шанс ухилитись від усієї вхідної шкоди під час битви.<0/>Ухилення також запобігає втраті міцності спорядження."
 
-#: src/components/_user/user/skills.frontConfig.tsx:122
+#: src/components/_user/user/skills.frontConfig.tsx:124
 msgid "Chance to hit the target.<0/>Misses cannot crit, and deal half damage."
 msgstr "Шанс влучити в ціль.<0/>Промах не може бути критом, а також завдає у два рази менше шкоди."
 
@@ -2091,8 +2087,8 @@ msgstr "Спільнота"
 msgid "Companies"
 msgstr "Фабрики"
 
-#: src/components/_user/user/skills.frontConfig.tsx:108
-#: src/components/_user/user/skills.frontConfig.tsx:109
+#: src/components/_user/user/skills.frontConfig.tsx:110
+#: src/components/_user/user/skills.frontConfig.tsx:111
 msgid "Companies limit"
 msgstr "Ліміт фабрик"
 
@@ -2263,7 +2259,7 @@ msgstr "Розгляньте можливість подарувати це ло
 msgid "Construction started"
 msgstr "Будівництво розпочато"
 
-#: src/components/_user/user/skills.frontConfig.tsx:76
+#: src/components/_user/user/skills.frontConfig.tsx:78
 msgid "Consumed when fighting in battles"
 msgstr "Витрачається під час боїв"
 
@@ -2452,13 +2448,13 @@ msgstr "Створити токен"
 msgid "Created:"
 msgstr "Створено:"
 
-#: src/components/_user/user/skills.frontConfig.tsx:49
-#: src/components/_user/user/skills.frontConfig.tsx:50
+#: src/components/_user/user/skills.frontConfig.tsx:51
+#: src/components/_user/user/skills.frontConfig.tsx:52
 msgid "Crit. chance"
 msgstr "Шанс крит. влучання"
 
-#: src/components/_user/user/skills.frontConfig.tsx:61
-#: src/components/_user/user/skills.frontConfig.tsx:62
+#: src/components/_user/user/skills.frontConfig.tsx:63
+#: src/components/_user/user/skills.frontConfig.tsx:64
 msgid "Crit. damages"
 msgstr "Шкода крит. влучання"
 
@@ -2535,7 +2531,7 @@ msgstr "Завдана шкода"
 msgid "Damages for Mu"
 msgstr "Шкода для ВП"
 
-#: src/components/_military/hit/HitButton.tsx:337
+#: src/components/_military/hit/HitButton.tsx:334
 msgid "Damages you did for this side in this round"
 msgstr "Шкода, завдана вами за цю сторону у цьому раунді"
 
@@ -2652,7 +2648,7 @@ msgstr "Зменшити"
 msgid "Decrease unrest"
 msgstr "Зменшити заворушення"
 
-#: src/components/_military/hit/HitButton.tsx:386
+#: src/components/_military/hit/HitButton.tsx:383
 msgid "Defend"
 msgstr "Оборона"
 
@@ -2812,8 +2808,8 @@ msgid "Do you even know what luck is?"
 msgstr "Ти взагалі знаєш, що таке удача?"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:274
-#: src/components/_user/user/skills.frontConfig.tsx:142
-#: src/components/_user/user/skills.frontConfig.tsx:143
+#: src/components/_user/user/skills.frontConfig.tsx:144
+#: src/components/_user/user/skills.frontConfig.tsx:145
 msgid "Dodge"
 msgstr "Ухилення"
 
@@ -2910,7 +2906,7 @@ msgstr "Режим заробітку"
 msgid "Economic laws"
 msgstr "Економічні закони"
 
-#: src/components/_user/user/skills.frontConfig.tsx:205
+#: src/components/_user/user/skills.frontConfig.tsx:216
 msgid "Economic skills"
 msgstr "Економічні навички"
 
@@ -3008,8 +3004,8 @@ msgid "Enemies"
 msgstr "Вороги"
 
 #: src/components/_economy/workOffer/WorkOfferList.tsx:145
-#: src/components/_user/user/skills.frontConfig.tsx:88
-#: src/components/_user/user/skills.frontConfig.tsx:89
+#: src/components/_user/user/skills.frontConfig.tsx:90
+#: src/components/_user/user/skills.frontConfig.tsx:91
 msgid "Energy"
 msgstr "Енергія"
 
@@ -3026,8 +3022,8 @@ msgstr "Введіть ID статті"
 msgid "Enter the code we sent to your email."
 msgstr "Введіть код, який ми надіслали на вашу пошту."
 
-#: src/components/_user/user/skills.frontConfig.tsx:168
-#: src/components/_user/user/skills.frontConfig.tsx:169
+#: src/components/_user/user/skills.frontConfig.tsx:179
+#: src/components/_user/user/skills.frontConfig.tsx:180
 msgid "Entrepreneurship"
 msgstr "Підприємливість"
 
@@ -3205,7 +3201,7 @@ msgstr "Бонус вірності"
 msgid "Fidelity bonus:"
 msgstr "Бонус вірності:"
 
-#: src/components/_user/user/skills.frontConfig.tsx:190
+#: src/components/_user/user/skills.frontConfig.tsx:201
 msgid "Fight skills"
 msgstr "Бойові навички"
 
@@ -3327,18 +3323,6 @@ msgstr "Батько-засновник"
 #: src/pages/shop/index.tsx:129
 msgid "Free daily reward"
 msgstr "Дармова щоденна нагорода"
-
-#: src/components/_military/hit/BattleLootChanceCard.tsx:98
-msgid "from battle ranking"
-msgstr "з бойового рейтингу"
-
-#: src/components/_military/hit/BattleLootChanceCard.tsx:78
-msgid "from hits"
-msgstr "за удари"
-
-#: src/components/_military/hit/BattleLootChanceCard.tsx:87
-msgid "from round rankings"
-msgstr "з рейтингу раундів"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:27
 msgid "Fun fact: The house always wins"
@@ -3515,8 +3499,8 @@ msgstr "Трудяга"
 msgid "Headquarters"
 msgstr "Штаб"
 
-#: src/components/_user/user/skills.frontConfig.tsx:77
-#: src/components/_user/user/skills.frontConfig.tsx:78
+#: src/components/_user/user/skills.frontConfig.tsx:79
+#: src/components/_user/user/skills.frontConfig.tsx:80
 msgid "Health"
 msgstr "Здоровʼя"
 
@@ -3571,12 +3555,8 @@ msgstr "Головна"
 msgid "How many times have you seen this message already?"
 msgstr "Скільки разів ти вже бачив це повідомлення?"
 
-#: src/components/_user/user/skills.frontConfig.tsx:150
-msgid "How much each hit increases the chance to loot a case when the battle ends"
-msgstr "На скільки кожен удар підвищує шанс отримати кейс після бою"
-
-#: src/components/_user/user/skills.frontConfig.tsx:115
-#: src/components/_user/user/skills.frontConfig.tsx:116
+#: src/components/_user/user/skills.frontConfig.tsx:117
+#: src/components/_user/user/skills.frontConfig.tsx:118
 msgid "Hunger"
 msgstr "Голод"
 
@@ -3985,7 +3965,7 @@ msgstr "Вподобайте повідомлення"
 msgid "Limestone"
 msgstr "Вапняк"
 
-#: src/components/_user/user/skills.frontConfig.tsx:114
+#: src/components/_user/user/skills.frontConfig.tsx:116
 msgid "Limit of food consumption"
 msgstr "Ліміт споживання їжі"
 
@@ -4045,9 +4025,8 @@ msgstr "Отримайте <0>{count}</0> з битв"
 msgid "Loot Cases"
 msgstr "Отримайте кейси"
 
-#: src/components/_military/hit/BattleLootChanceCard.tsx:38
-#: src/components/_user/user/skills.frontConfig.tsx:155
-#: src/components/_user/user/skills.frontConfig.tsx:156
+#: src/components/_user/user/skills.frontConfig.tsx:166
+#: src/components/_user/user/skills.frontConfig.tsx:167
 msgid "Loot chance"
 msgstr "Шанс здобичі"
 
@@ -4095,8 +4074,8 @@ msgstr "Майор"
 msgid "Manage Subscription"
 msgstr "Керування підпискою"
 
-#: src/components/_user/user/skills.frontConfig.tsx:183
-#: src/components/_user/user/skills.frontConfig.tsx:184
+#: src/components/_user/user/skills.frontConfig.tsx:194
+#: src/components/_user/user/skills.frontConfig.tsx:195
 msgid "Management"
 msgstr "Менеджмент"
 
@@ -4703,7 +4682,7 @@ msgstr "Парламентарів немає"
 msgid "No contributions yet"
 msgstr "Пожертв ще немає"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:125
+#: src/components/_military/damageRanking/DamageRankingList.tsx:119
 msgid "No damages ranking yet."
 msgstr "Рейтингу за шкодою ще немає."
 
@@ -4711,7 +4690,7 @@ msgstr "Рейтингу за шкодою ще немає."
 msgid "No donations yet"
 msgstr "Пожертв ще немає"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:127
+#: src/components/_military/damageRanking/DamageRankingList.tsx:121
 msgid "No ground ranking yet."
 msgstr "Рейтингу за балами контролю ще немає."
 
@@ -4735,7 +4714,7 @@ msgstr "Підрозділи не знайдено"
 msgid "No missions available"
 msgstr "Немає доступних місій"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:128
+#: src/components/_military/damageRanking/DamageRankingList.tsx:122
 msgid "No money ranking yet."
 msgstr "Грошового рейтингу ще немає."
 
@@ -4938,7 +4917,7 @@ msgstr "Оперативник"
 msgid "Options"
 msgstr "Опції"
 
-#: src/components/_military/battle/BattleItem.tsx:329
+#: src/components/_military/battle/BattleItem.tsx:317
 msgid "Order"
 msgstr "Наказ"
 
@@ -5199,8 +5178,8 @@ msgstr "Політичні резолюції"
 msgid "Popular Article"
 msgstr "Популярна стаття"
 
-#: src/components/_user/user/skills.frontConfig.tsx:128
-#: src/components/_user/user/skills.frontConfig.tsx:129
+#: src/components/_user/user/skills.frontConfig.tsx:130
+#: src/components/_user/user/skills.frontConfig.tsx:131
 msgid "Precision"
 msgstr "Влучність"
 
@@ -5290,7 +5269,7 @@ msgstr "Конфіденційність"
 msgid "Private"
 msgstr "Солдат"
 
-#: src/components/_user/user/skills.frontConfig.tsx:48
+#: src/components/_user/user/skills.frontConfig.tsx:50
 msgid "Probability of landing a critical hit"
 msgstr "Шанс завдати критичного удару"
 
@@ -5316,8 +5295,8 @@ msgid "Produced item changed!"
 msgstr "Продукт виробництва змінено!"
 
 #: src/components/_economy/workOffer/WorkOfferList.tsx:159
-#: src/components/_user/user/skills.frontConfig.tsx:101
-#: src/components/_user/user/skills.frontConfig.tsx:102
+#: src/components/_user/user/skills.frontConfig.tsx:103
+#: src/components/_user/user/skills.frontConfig.tsx:104
 #: src/pages/company/[companyId]/index.tsx:49
 msgid "Production"
 msgstr "Виробництво"
@@ -5442,10 +5421,6 @@ msgstr "Швидкий розбір"
 msgid "Quickly dismantle items"
 msgstr "Швидко розбирайте предмети"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:251
-msgid "Ranking loot chance"
-msgstr "Шанс здобичі за рейтинг"
-
 #: src/components/_user/notification/notification.frontConfig.tsx:1524
 msgid "Ranking Reward"
 msgstr "Нагорода за рейтинг"
@@ -5546,7 +5521,7 @@ msgstr "Рекрут"
 msgid "Red Staff"
 msgstr "Червоний посох"
 
-#: src/components/_user/user/skills.frontConfig.tsx:68
+#: src/components/_user/user/skills.frontConfig.tsx:70
 msgid "Reduces health lost when fighting in battles"
 msgstr "Знижує втрати здоров'я у битві"
 
@@ -5803,7 +5778,7 @@ msgstr "Скинути прізвисько"
 msgid "Reshuffle in"
 msgstr "Змінить розташування через"
 
-#: src/components/_military/hit/HitButton.tsx:381
+#: src/components/_military/hit/HitButton.tsx:378
 msgid "Resist"
 msgstr "Опір"
 
@@ -6186,7 +6161,7 @@ msgstr "Налаштування"
 msgid "Shop"
 msgstr "Магазин"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:216
+#: src/components/_military/damageRanking/DamageRankingList.tsx:187
 #: src/components/_social/ArticleTags.tsx:268
 #: src/components/_social/ArticleTags.tsx:319
 #: src/components/_social/ArticleTags.tsx:427
@@ -6350,7 +6325,7 @@ msgstr "Почати президентські вибори"
 msgid "Start revolution"
 msgstr "Розпочати революцію"
 
-#: src/components/_military/battle/BattleHeader.tsx:169
+#: src/components/_military/battle/BattleHeader.tsx:168
 #: src/components/_military/war/WarHeader.tsx:61
 #: src/components/_military/war/WarItem.tsx:108
 msgid "Started <0/>"
@@ -6562,11 +6537,11 @@ msgstr "Цей дофамін безкоштовний"
 msgid "That's epic!"
 msgstr "Це нереально!"
 
-#: src/components/_user/user/skills.frontConfig.tsx:96
+#: src/components/_user/user/skills.frontConfig.tsx:98
 msgid "The <0>Production Points</0> you generate each time you work"
 msgstr "<0>Бали виробництва</0> які ви створюєте кожен раз, коли працюєте"
 
-#: src/components/_user/user/skills.frontConfig.tsx:38
+#: src/components/_user/user/skills.frontConfig.tsx:40
 msgid "The base value for <0>Damages</0> calculation."
 msgstr "Базове значення для розрахунку <0>Шкоди</0>."
 
@@ -6586,7 +6561,7 @@ msgstr "Контракт для <0/> прострочено"
 msgid "The contract has been rolled back. All money sent back to <0/>"
 msgstr ""
 
-#: src/components/_user/user/skills.frontConfig.tsx:57
+#: src/components/_user/user/skills.frontConfig.tsx:59
 msgid "The damage factor increase of critical hits over normal hits"
 msgstr "Збільшення коефіцієнту шкоди критичних влучань"
 
@@ -7084,11 +7059,11 @@ msgstr "Використайте <0>Голод</0>, щоб поїсти та в�
 msgid "Used for shooting guns. Increases your <0>Attack</0>"
 msgstr "Використовується для стрільби. Збільшують вашу <0>Шкоду</0>"
 
-#: src/components/_user/user/skills.frontConfig.tsx:163
+#: src/components/_user/user/skills.frontConfig.tsx:174
 msgid "Used to <0>Self Work</0> in your own companies"
 msgstr "Використовується для <0>Самостійної роботи</0> на ваших фабриках"
 
-#: src/components/_user/user/skills.frontConfig.tsx:84
+#: src/components/_user/user/skills.frontConfig.tsx:86
 msgid "Used to <0>Work</0>"
 msgstr "Використовується для <0>Роботи</0>"
 
@@ -7278,7 +7253,7 @@ msgstr "Віцепрезидент"
 msgid "View details"
 msgstr "Переглянути деталі"
 
-#: src/components/_military/battle/BattleHeader.tsx:100
+#: src/components/_military/battle/BattleHeader.tsx:99
 msgid "View on map"
 msgstr "Побачити на мапі"
 
@@ -7940,7 +7915,7 @@ msgstr "Ваші щоденні місії було скинуто! Заверш
 msgid "Your daily XP limit has been reset, you can now gain XP and get your daily reward!"
 msgstr "Ваш щоденний ліміт досвіду було скинуто, тепер ви можете отримати XP за щоденні нагороди!"
 
-#: src/components/_military/hit/HitButton.tsx:336
+#: src/components/_military/hit/HitButton.tsx:333
 msgid "Your damages"
 msgstr "Ваша шкода"
 
@@ -8000,7 +7975,7 @@ msgstr "Ваша підписка була активована!"
 msgid "Your premium subscription has expired!"
 msgstr "Ваша підписка скінчилась!"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:222
+#: src/components/_military/damageRanking/DamageRankingList.tsx:193
 msgid "Your rank"
 msgstr "Ваш ранг"
 

@@ -1109,7 +1109,7 @@ msgstr "Başka bir ülkeyle barış yapmayı kabul et"
 msgid "Accepted"
 msgstr "Kabul Edildi"
 
-#: src/components/_military/battle/BattleHeader.tsx:93
+#: src/components/_military/battle/BattleHeader.tsx:92
 msgid "Access war"
 msgstr "Savaşa eriş"
 
@@ -1320,11 +1320,11 @@ msgstr "Miktar"
 msgid "Amount of <0>Production Points</0> that can be stored inside the company before production stops."
 msgstr "Üretim durmadan önce şirket içinde saklanabilecek <0>Üretim Puanı</0> miktarı."
 
-#: src/components/_user/user/skills.frontConfig.tsx:175
+#: src/components/_user/user/skills.frontConfig.tsx:186
 msgid "Amount of <0>Workers</0> you can manage. And daily hire limit."
 msgstr "Yönetebileceğiniz <0>İşçi</0> sayısı. Ve günlük işe alım limiti."
 
-#: src/components/_user/user/skills.frontConfig.tsx:107
+#: src/components/_user/user/skills.frontConfig.tsx:109
 msgid "Amount of companies you can own"
 msgstr "Sahip olabileceğin şirket sayısı"
 
@@ -1443,8 +1443,8 @@ msgstr "Bu eğitimi atlamak istediğinizden emin misiniz?"
 msgid "Are you sure you want to transfer ownership to this member? This action cannot be undone."
 msgstr ""
 
-#: src/components/_user/user/skills.frontConfig.tsx:69
-#: src/components/_user/user/skills.frontConfig.tsx:70
+#: src/components/_user/user/skills.frontConfig.tsx:71
+#: src/components/_user/user/skills.frontConfig.tsx:72
 msgid "Armor"
 msgstr "Zırh"
 
@@ -1473,14 +1473,6 @@ msgstr "Makaleler"
 msgid "Articles by <0/>"
 msgstr "<0/> Tarafından Yazılan Makaleler"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:253
-msgid "At end of battle/rounds, <0>Top 30%</0> of the ranking, get <1>Loot chance</1> to get cases depending on total <2>Damages</2> of the side. "
-msgstr "Savaş/tur sonunda, sıralamanın <0>ilk %30'u</0>, tarafın toplam <2>Hasarına</2> bağlı olarak kasa almak için <1>Ganimet şansı</1> kazanır. "
-
-#: src/components/_military/hit/BattleLootChanceCard.tsx:41
-msgid "At every hit, increases your chance to loot a case when the battle ends. You can stack cases."
-msgstr "Her vuruşta, savaş bittiğinde kasa yağmalama şansını artırır. Kasaları biriktirebilirsin."
-
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:8
 msgid "At least you tried"
 msgstr "En azından denedin"
@@ -1489,9 +1481,9 @@ msgstr "En azından denedin"
 msgid "At the end of the timer <0>{actualTickPoints}</0> will be assigned to the side with the most damages."
 msgstr "Süre sonunda <0>{actualTickPoints}</0> en çok hasarı veren tarafa atanacak."
 
-#: src/components/_military/hit/HitButton.tsx:383
-#: src/components/_user/user/skills.frontConfig.tsx:42
-#: src/components/_user/user/skills.frontConfig.tsx:43
+#: src/components/_military/hit/HitButton.tsx:380
+#: src/components/_user/user/skills.frontConfig.tsx:44
+#: src/components/_user/user/skills.frontConfig.tsx:45
 msgid "Attack"
 msgstr "Saldırı"
 
@@ -1882,11 +1874,15 @@ msgstr "Kasalar rastgele eşyalar içerir. Açmak için tıkla!"
 msgid "Catapult"
 msgstr "Katapult"
 
-#: src/components/_user/user/skills.frontConfig.tsx:136
+#: src/components/_user/user/skills.frontConfig.tsx:152
+msgid "Chance per hit to instantly loot:<0/><1>1%</1> gives<2>1%</2> and <3>0.01%</3> to loot cases per hit."
+msgstr ""
+
+#: src/components/_user/user/skills.frontConfig.tsx:138
 msgid "Chance to dodge all incoming damage when fighting in battles.<0/>Dodging also prevents equipment durability from being consumed."
 msgstr "Savaşlarda tüm gelen hasarı savuşturma şansı.<0/>Savuşturma ayrıca ekipman dayanıklılığının tüketilmesini önler."
 
-#: src/components/_user/user/skills.frontConfig.tsx:122
+#: src/components/_user/user/skills.frontConfig.tsx:124
 msgid "Chance to hit the target.<0/>Misses cannot crit, and deal half damage."
 msgstr "Hedefe vurma şansı.<0/>Kaçırılan vuruşlar kritik yapamaz ve yarı hasar verir."
 
@@ -2091,8 +2087,8 @@ msgstr ""
 msgid "Companies"
 msgstr "Şirketler"
 
-#: src/components/_user/user/skills.frontConfig.tsx:108
-#: src/components/_user/user/skills.frontConfig.tsx:109
+#: src/components/_user/user/skills.frontConfig.tsx:110
+#: src/components/_user/user/skills.frontConfig.tsx:111
 msgid "Companies limit"
 msgstr "Şirket limiti"
 
@@ -2263,7 +2259,7 @@ msgstr "Yerel moderatörüne vermeyi düşün."
 msgid "Construction started"
 msgstr "İnşaat başladı"
 
-#: src/components/_user/user/skills.frontConfig.tsx:76
+#: src/components/_user/user/skills.frontConfig.tsx:78
 msgid "Consumed when fighting in battles"
 msgstr "Savaşlarda dövüşürken tüketilir"
 
@@ -2452,13 +2448,13 @@ msgstr "Token Oluştur"
 msgid "Created:"
 msgstr "Oluşturuldu:"
 
-#: src/components/_user/user/skills.frontConfig.tsx:49
-#: src/components/_user/user/skills.frontConfig.tsx:50
+#: src/components/_user/user/skills.frontConfig.tsx:51
+#: src/components/_user/user/skills.frontConfig.tsx:52
 msgid "Crit. chance"
 msgstr "Kritik şansı"
 
-#: src/components/_user/user/skills.frontConfig.tsx:61
-#: src/components/_user/user/skills.frontConfig.tsx:62
+#: src/components/_user/user/skills.frontConfig.tsx:63
+#: src/components/_user/user/skills.frontConfig.tsx:64
 msgid "Crit. damages"
 msgstr "Kritik hasar"
 
@@ -2535,7 +2531,7 @@ msgstr "Hasar"
 msgid "Damages for Mu"
 msgstr ""
 
-#: src/components/_military/hit/HitButton.tsx:337
+#: src/components/_military/hit/HitButton.tsx:334
 msgid "Damages you did for this side in this round"
 msgstr "Bu turda bu taraf için verdiğin hasar"
 
@@ -2652,7 +2648,7 @@ msgstr ""
 msgid "Decrease unrest"
 msgstr ""
 
-#: src/components/_military/hit/HitButton.tsx:386
+#: src/components/_military/hit/HitButton.tsx:383
 msgid "Defend"
 msgstr "Savun"
 
@@ -2812,8 +2808,8 @@ msgid "Do you even know what luck is?"
 msgstr "Fakirin yüzü gülmedi"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:274
-#: src/components/_user/user/skills.frontConfig.tsx:142
-#: src/components/_user/user/skills.frontConfig.tsx:143
+#: src/components/_user/user/skills.frontConfig.tsx:144
+#: src/components/_user/user/skills.frontConfig.tsx:145
 msgid "Dodge"
 msgstr "Savuşturma"
 
@@ -2910,7 +2906,7 @@ msgstr ""
 msgid "Economic laws"
 msgstr "Ekonomik yasalar"
 
-#: src/components/_user/user/skills.frontConfig.tsx:205
+#: src/components/_user/user/skills.frontConfig.tsx:216
 msgid "Economic skills"
 msgstr "Ekonomik beceriler"
 
@@ -3008,8 +3004,8 @@ msgid "Enemies"
 msgstr "Düşmanlar"
 
 #: src/components/_economy/workOffer/WorkOfferList.tsx:145
-#: src/components/_user/user/skills.frontConfig.tsx:88
-#: src/components/_user/user/skills.frontConfig.tsx:89
+#: src/components/_user/user/skills.frontConfig.tsx:90
+#: src/components/_user/user/skills.frontConfig.tsx:91
 msgid "Energy"
 msgstr "Enerji"
 
@@ -3026,8 +3022,8 @@ msgstr "Makale ID girin"
 msgid "Enter the code we sent to your email."
 msgstr "E-postanıza gönderdiğimiz kodu girin."
 
-#: src/components/_user/user/skills.frontConfig.tsx:168
-#: src/components/_user/user/skills.frontConfig.tsx:169
+#: src/components/_user/user/skills.frontConfig.tsx:179
+#: src/components/_user/user/skills.frontConfig.tsx:180
 msgid "Entrepreneurship"
 msgstr "Girişimcilik"
 
@@ -3205,7 +3201,7 @@ msgstr "Sadakat bonusu"
 msgid "Fidelity bonus:"
 msgstr "Sadakat bonusu:"
 
-#: src/components/_user/user/skills.frontConfig.tsx:190
+#: src/components/_user/user/skills.frontConfig.tsx:201
 msgid "Fight skills"
 msgstr "Dövüş becerileri"
 
@@ -3327,18 +3323,6 @@ msgstr ""
 #: src/pages/shop/index.tsx:129
 msgid "Free daily reward"
 msgstr "Ücretsiz günlük ödül"
-
-#: src/components/_military/hit/BattleLootChanceCard.tsx:98
-msgid "from battle ranking"
-msgstr "savaş sıralamasından"
-
-#: src/components/_military/hit/BattleLootChanceCard.tsx:78
-msgid "from hits"
-msgstr "atışlardan"
-
-#: src/components/_military/hit/BattleLootChanceCard.tsx:87
-msgid "from round rankings"
-msgstr "tur sıralamalarından"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:27
 msgid "Fun fact: The house always wins"
@@ -3515,8 +3499,8 @@ msgstr ""
 msgid "Headquarters"
 msgstr ""
 
-#: src/components/_user/user/skills.frontConfig.tsx:77
-#: src/components/_user/user/skills.frontConfig.tsx:78
+#: src/components/_user/user/skills.frontConfig.tsx:79
+#: src/components/_user/user/skills.frontConfig.tsx:80
 msgid "Health"
 msgstr "Sağlık"
 
@@ -3571,12 +3555,8 @@ msgstr "Ana Sayfa"
 msgid "How many times have you seen this message already?"
 msgstr "Bu mesajı kaç kez gördün?"
 
-#: src/components/_user/user/skills.frontConfig.tsx:150
-msgid "How much each hit increases the chance to loot a case when the battle ends"
-msgstr "Her vuruşun savaş bittiğinde kasa yağmalama şansını ne kadar artırdığı"
-
-#: src/components/_user/user/skills.frontConfig.tsx:115
-#: src/components/_user/user/skills.frontConfig.tsx:116
+#: src/components/_user/user/skills.frontConfig.tsx:117
+#: src/components/_user/user/skills.frontConfig.tsx:118
 msgid "Hunger"
 msgstr "Açlık"
 
@@ -3985,7 +3965,7 @@ msgstr "Mesajı Beğen"
 msgid "Limestone"
 msgstr "Kireçtaşı"
 
-#: src/components/_user/user/skills.frontConfig.tsx:114
+#: src/components/_user/user/skills.frontConfig.tsx:116
 msgid "Limit of food consumption"
 msgstr "Yiyecek tüketim limiti"
 
@@ -4045,9 +4025,8 @@ msgstr "Savaşlardan <0>{count}</0> yağmala"
 msgid "Loot Cases"
 msgstr "Ganimetleri Topla"
 
-#: src/components/_military/hit/BattleLootChanceCard.tsx:38
-#: src/components/_user/user/skills.frontConfig.tsx:155
-#: src/components/_user/user/skills.frontConfig.tsx:156
+#: src/components/_user/user/skills.frontConfig.tsx:166
+#: src/components/_user/user/skills.frontConfig.tsx:167
 msgid "Loot chance"
 msgstr "Ganimet şansı"
 
@@ -4095,8 +4074,8 @@ msgstr "Binbaşı"
 msgid "Manage Subscription"
 msgstr "Aboneliği Yönet"
 
-#: src/components/_user/user/skills.frontConfig.tsx:183
-#: src/components/_user/user/skills.frontConfig.tsx:184
+#: src/components/_user/user/skills.frontConfig.tsx:194
+#: src/components/_user/user/skills.frontConfig.tsx:195
 msgid "Management"
 msgstr "Yönetim"
 
@@ -4703,7 +4682,7 @@ msgstr "Meclis üyesi yok"
 msgid "No contributions yet"
 msgstr "Henüz katkı yok"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:125
+#: src/components/_military/damageRanking/DamageRankingList.tsx:119
 msgid "No damages ranking yet."
 msgstr "Henüz hasar sıralaması yok."
 
@@ -4711,7 +4690,7 @@ msgstr "Henüz hasar sıralaması yok."
 msgid "No donations yet"
 msgstr "Henüz bağış yok"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:127
+#: src/components/_military/damageRanking/DamageRankingList.tsx:121
 msgid "No ground ranking yet."
 msgstr "Henüz zemin sıralaması yok."
 
@@ -4735,7 +4714,7 @@ msgstr "Askeri birlik bulunamadı"
 msgid "No missions available"
 msgstr "Mevcut görev yok"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:128
+#: src/components/_military/damageRanking/DamageRankingList.tsx:122
 msgid "No money ranking yet."
 msgstr "Henüz para sıralaması yok."
 
@@ -4938,7 +4917,7 @@ msgstr "Operatif"
 msgid "Options"
 msgstr "Seçenekler"
 
-#: src/components/_military/battle/BattleItem.tsx:329
+#: src/components/_military/battle/BattleItem.tsx:317
 msgid "Order"
 msgstr "Emir"
 
@@ -5199,8 +5178,8 @@ msgstr "Siyasal önergeler"
 msgid "Popular Article"
 msgstr ""
 
-#: src/components/_user/user/skills.frontConfig.tsx:128
-#: src/components/_user/user/skills.frontConfig.tsx:129
+#: src/components/_user/user/skills.frontConfig.tsx:130
+#: src/components/_user/user/skills.frontConfig.tsx:131
 msgid "Precision"
 msgstr "Hassasiyet"
 
@@ -5290,7 +5269,7 @@ msgstr "Gizlilik"
 msgid "Private"
 msgstr "Er"
 
-#: src/components/_user/user/skills.frontConfig.tsx:48
+#: src/components/_user/user/skills.frontConfig.tsx:50
 msgid "Probability of landing a critical hit"
 msgstr "Kritik vuruş yapma olasılığı"
 
@@ -5316,8 +5295,8 @@ msgid "Produced item changed!"
 msgstr "Üretilen eşya değiştirildi!"
 
 #: src/components/_economy/workOffer/WorkOfferList.tsx:159
-#: src/components/_user/user/skills.frontConfig.tsx:101
-#: src/components/_user/user/skills.frontConfig.tsx:102
+#: src/components/_user/user/skills.frontConfig.tsx:103
+#: src/components/_user/user/skills.frontConfig.tsx:104
 #: src/pages/company/[companyId]/index.tsx:49
 msgid "Production"
 msgstr "Üretim"
@@ -5442,10 +5421,6 @@ msgstr "Hızlı parçala"
 msgid "Quickly dismantle items"
 msgstr "Eşyaları hızlıca parçala"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:251
-msgid "Ranking loot chance"
-msgstr "Sıralama yağma şansı"
-
 #: src/components/_user/notification/notification.frontConfig.tsx:1524
 msgid "Ranking Reward"
 msgstr "Sıralama Ödülü"
@@ -5546,7 +5521,7 @@ msgstr "Asker Adayı"
 msgid "Red Staff"
 msgstr ""
 
-#: src/components/_user/user/skills.frontConfig.tsx:68
+#: src/components/_user/user/skills.frontConfig.tsx:70
 msgid "Reduces health lost when fighting in battles"
 msgstr "Savaşlarda dövüşürken kaybedilen sağlığı azaltır"
 
@@ -5803,7 +5778,7 @@ msgstr "Kullanıcı Adını Sıfırla"
 msgid "Reshuffle in"
 msgstr "Yeniden dağıtım"
 
-#: src/components/_military/hit/HitButton.tsx:381
+#: src/components/_military/hit/HitButton.tsx:378
 msgid "Resist"
 msgstr "Diren"
 
@@ -6186,7 +6161,7 @@ msgstr "Ayarlar"
 msgid "Shop"
 msgstr "Mağaza"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:216
+#: src/components/_military/damageRanking/DamageRankingList.tsx:187
 #: src/components/_social/ArticleTags.tsx:268
 #: src/components/_social/ArticleTags.tsx:319
 #: src/components/_social/ArticleTags.tsx:427
@@ -6350,7 +6325,7 @@ msgstr "Başkanlık seçimi başlat"
 msgid "Start revolution"
 msgstr "Bir devrim başlat"
 
-#: src/components/_military/battle/BattleHeader.tsx:169
+#: src/components/_military/battle/BattleHeader.tsx:168
 #: src/components/_military/war/WarHeader.tsx:61
 #: src/components/_military/war/WarItem.tsx:108
 msgid "Started <0/>"
@@ -6562,11 +6537,11 @@ msgstr "Beleş dopamin"
 msgid "That's epic!"
 msgstr "Bu destansı!"
 
-#: src/components/_user/user/skills.frontConfig.tsx:96
+#: src/components/_user/user/skills.frontConfig.tsx:98
 msgid "The <0>Production Points</0> you generate each time you work"
 msgstr "Her çalıştığında ürettiğin <0>Üretim Puanları</0>"
 
-#: src/components/_user/user/skills.frontConfig.tsx:38
+#: src/components/_user/user/skills.frontConfig.tsx:40
 msgid "The base value for <0>Damages</0> calculation."
 msgstr "<0>Hasar</0> hesaplaması için temel değer."
 
@@ -6586,7 +6561,7 @@ msgstr ""
 msgid "The contract has been rolled back. All money sent back to <0/>"
 msgstr ""
 
-#: src/components/_user/user/skills.frontConfig.tsx:57
+#: src/components/_user/user/skills.frontConfig.tsx:59
 msgid "The damage factor increase of critical hits over normal hits"
 msgstr "Normal vuruşlara göre kritik vuruşların hasar faktörü artışı"
 
@@ -7084,11 +7059,11 @@ msgstr "<0>Açlığını</0> kullanarak yiyecek ye ve <1>Sağlığını</1> dold
 msgid "Used for shooting guns. Increases your <0>Attack</0>"
 msgstr "Silah ateşlemek için kullanılır. <0>Saldırı</0> gücünü artırır"
 
-#: src/components/_user/user/skills.frontConfig.tsx:163
+#: src/components/_user/user/skills.frontConfig.tsx:174
 msgid "Used to <0>Self Work</0> in your own companies"
 msgstr "Kendi şirketlerinde <0>Kendi İşini Yapmak</0> için kullanılır"
 
-#: src/components/_user/user/skills.frontConfig.tsx:84
+#: src/components/_user/user/skills.frontConfig.tsx:86
 msgid "Used to <0>Work</0>"
 msgstr "<0>Çalışmak</0> için kullanılır"
 
@@ -7278,7 +7253,7 @@ msgstr "Başkan Yardımcısı"
 msgid "View details"
 msgstr ""
 
-#: src/components/_military/battle/BattleHeader.tsx:100
+#: src/components/_military/battle/BattleHeader.tsx:99
 msgid "View on map"
 msgstr "Haritada göster"
 
@@ -7940,7 +7915,7 @@ msgstr "Günlük görevleriniz sıfırlandı! Ödüllerinizi almak için tamamla
 msgid "Your daily XP limit has been reset, you can now gain XP and get your daily reward!"
 msgstr "Günlük XP limitin sıfırlandı, artık XP kazanabilir ve günlük ödülünü alabilirsin!"
 
-#: src/components/_military/hit/HitButton.tsx:336
+#: src/components/_military/hit/HitButton.tsx:333
 msgid "Your damages"
 msgstr "Verdiğin hasar"
 
@@ -8000,7 +7975,7 @@ msgstr "Premium aboneliğin aktif edildi!"
 msgid "Your premium subscription has expired!"
 msgstr "Premium aboneliğin süresi doldu!"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:222
+#: src/components/_military/damageRanking/DamageRankingList.tsx:193
 msgid "Your rank"
 msgstr "Sıralaman"
 
